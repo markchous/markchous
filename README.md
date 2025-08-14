@@ -2,7 +2,7 @@
 # A little about me
 
 - 👋 Hi, I’m @markchous
-- 📫 How to reach me: markhouston35@gmail.com
+- 📫 How to reach me: sike
 - ⚡ Fun fact: I'm an avid cyclist turned triathlete.
 
 
