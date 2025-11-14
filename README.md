@@ -3,7 +3,6 @@
 
 - 👋 Hi, I’m @markchous
 - 📫 How to reach me: markhouston35@gmail.com
-- ⚡ Fun fact: I'm an avid cyclist turned triathlete.
 
 
 ## My Stats
