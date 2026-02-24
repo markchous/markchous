@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @markchous
 - 📫 How to reach me: markhouston35@gmail.com
 
-
-## My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=markchous&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markchous&theme=tokyonight&layout=compact)
+Frontend Developer | Team Lead
+Building scalable React & Next.js applications with TypeScript, along with high-quality native iOS and Android mobile experiences.
+Leading teams, architecting clean systems, and shipping production-ready software across web and mobile platforms.
+Focused on performance, UX, and maintainable code.
